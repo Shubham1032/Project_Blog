@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+
+}
+.NavContent{
+  margin-left: 130px;
+  font-weight: bold;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+}
+span Link{
+  color: black;
+}
+.NavContent:hover{
+ font-size: larger;
+  transition: all 0.2s ease-in-out;
+}
+.ImageforCard{
+  padding: 10px;
+  display: inline;
+  
+}
+nav p{
+  rotate: -90deg;
+}
+.HeaderContainer{
+  margin-top: 30px;
+  text-align: center;
+}
+.HeaderContainer p{
+/* transform: rotate(-90deg); */
+display: inline;
+}
+.HeaderContainer h1{
+  display: inline;
+  }
